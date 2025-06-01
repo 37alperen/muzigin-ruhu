@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Island Dream",
+    "artist": "Roa",
+    "mood": "mutlu",
+    "audio": "https://cdn.pixabay.com/download/audio/2022/02/08/audio_6e1e5239e0.mp3"
+  },
+  {
+    "title": "Emotional Sad Piano",
+    "artist": "Keys of Moon",
+    "mood": "hüzünlü",
+    "audio": "https://cdn.pixabay.com/download/audio/2021/10/05/audio_f8f5db4bd5.mp3"
+  },
+  {
+    "title": "Upbeat & Energetic",
+    "artist": "LiteSaturation",
+    "mood": "enerjik",
+    "audio": "https://cdn.pixabay.com/download/audio/2023/03/17/audio_9626d7f681.mp3"
+  },
+  {
+    "title": "Deep Focus",
+    "artist": "Lesfm",
+    "mood": "odak",
+    "audio": "https://cdn.pixabay.com/download/audio/2021/10/15/audio_4ff2857e64.mp3"
+  }
+]
